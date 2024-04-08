@@ -26,8 +26,8 @@ directory in the terminal, then run `code .` to open the files in Visual Studio
 Code.
 
 Using the tests to guide you, create the following deliverables:
-
-- `returnFirstTwoDrivers()` — Declare the variable `returnFirstTwoDrivers` with
+eturnFir
+- `firstTwoDrivers()` — Declare the variable `returnFirstTwoDrivers` with
   `const` and assign an anonymous function to it. The assigned function should
   take one argument, an array containing the names of Scuber's drivers, and
   return a new array containing the **first** two drivers in the array:
